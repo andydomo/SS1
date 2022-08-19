@@ -39,7 +39,7 @@
   ],
   "advancedReports": null,
   "guid": "c9e0d33d-fe34-4f8c-b261-a1c3817d108a",
-  "authorName": "test",
+  "authorName": "te",
   "accesstokenMethod": null,
   "tokenAddlParams": null,
   "publishPrivate": true,
@@ -115,8 +115,8 @@
   "repository": null,
   "visible": true,
   "validImages": [
-    "iconWithBackground",
     "iconWithoutBackground",
+    "iconWithBackground",
     "logoWithBackground",
     "logoWithoutBackground"
   ]
